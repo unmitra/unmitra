@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My Name is Mitra, I'm DevOps Engineer and Linux Lover
+
+- 💬 Ask me about Linux, Golang, C and Rust
+- 📫 How to reach me: [Twitter](https://x.com/unfucktor)
+
+
 <!--
 **unfucktor/unfucktor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
