@@ -3,7 +3,6 @@
 My Name is Mitra, I'm DevOps Engineer and Linux Lover
 
 - 💬 Ask me about Linux, Golang, C and Rust
-- 📫 How to reach me: [Twitter](https://x.com/unfucktor)
 
 
 <!--
